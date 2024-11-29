@@ -1,2 +1,3 @@
 ini adalah file2
 tambahan untuk file2
+fitur2
